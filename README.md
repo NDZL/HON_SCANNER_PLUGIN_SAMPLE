@@ -1,5 +1,6 @@
 # HON_SCANNER_PLUGIN_SAMPLE
 SCANNER PLUGIN SAMPLE FOR HON DEVICES - USEFUL FOR BASIC TE ADVANCED SCANNING
+FOR CODE SEE MASTER BRANCH
 
 
 https://support.honeywellaidc.com/s/article/How-to-write-a-Data-Edit-plugin-for-Android-devices
